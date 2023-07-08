@@ -1,9 +1,5 @@
 .env
-.png
-.jpg
-.jpeg
+*.png
+*.jpg
+*.jpeg
 /node_modules
-/public/images
-/public/thumbnail
-/uploads/images
-/uploads/resized
